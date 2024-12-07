@@ -1,6 +1,6 @@
 package Her;
 
-public class Hehe {
+public class runthis {
     public static void main(String[] args) {
         String[] y = {
             "*     *",
